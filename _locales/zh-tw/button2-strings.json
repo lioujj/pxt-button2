@@ -1,6 +1,6 @@
 {
     "button2|block": "按鈕2",
-    "button2.pushType.down|block": "按下",
-    "button2.pushType.up|block": "放開",
-    "button2.onBtnChanged|block": "當按鈕腳位| %btnPin | 被 | %dir"
+    "button2.pushType2.down|block": "按下",
+    "button2.pushType2.up|block": "放開",
+    "button2.onBtn2Changed|block": "當按鈕腳位| %btnPin | 被 | %dir"
 }
